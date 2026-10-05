@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-05",
+  "title": "Online food ordering SQL coursework",
+  "runtime_verified_for_publication": false,
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "5d88202b853217c723bde4ea54206901e0bb7f1e0e782347d799332a294adc6f",
+      "bytes": 421
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "1126322e2cc8d165adc4c792eeb195717de2bcc7b39be1ce77959d78e87ef685",
+      "bytes": 1056
+    },
+    {
+      "path": "README.md",
+      "sha256": "478d83aabe7fd4854fa4ac148b527704cbb9394567e8759042cf76b7a6ceb6a8",
+      "bytes": 2840
+    },
+    {
+      "path": "sql/01_schema.sql",
+      "sha256": "f9b6a4a03fda63efe700dcb87234ab2728c9993f776ef6e24308f8c3def4c136",
+      "bytes": 2414
+    },
+    {
+      "path": "sql/02_sample_data.sql",
+      "sha256": "3638e4b195ea345d4e832fe95e79388a0e12c79a10504350b8e345be08341074",
+      "bytes": 1884
+    },
+    {
+      "path": "sql/03_queries.sql",
+      "sha256": "c9670f5a32e4859cfa99a5badd7f5a607ac908daa4cc710ad554e3ec90e47733",
+      "bytes": 2528
+    },
+    {
+      "path": "additional_sources/Online_Food_Ordering_System_SQL/Online_Food_Ordering_System_SQL.sql",
+      "sha256": "397227318b261f69bfad5e6bfe25c16813d5f9de2e573c2fc7a98b913f9d6799",
+      "bytes": 6859
+    }
+  ]
+}
