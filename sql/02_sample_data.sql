@@ -3,9 +3,9 @@
 -- dataset so the queries in 03_queries.sql return meaningful results.
 
 -- Users
-INSERT INTO Users VALUES (1, 'foodie_01', 'foodie01@example.com', 'pass123', '03001234567', 'Karachi', '2025-06-01');
-INSERT INTO Users VALUES (2, 'hungry_hana', 'hana@example.com', 'hana456', '03007654321', 'Lahore', '2025-06-03');
-INSERT INTO Users VALUES (3, 'quick_bites', 'quickbites@example.com', 'qb321', '03111222333', 'Islamabad', '2025-06-05');
+INSERT INTO Users VALUES (1, 'foodie_01', 'foodie01@example.com', '03001234567', 'Karachi', '2025-06-01');
+INSERT INTO Users VALUES (2, 'hungry_hana', 'hana@example.com', '03007654321', 'Lahore', '2025-06-03');
+INSERT INTO Users VALUES (3, 'quick_bites', 'quickbites@example.com', '03111222333', 'Islamabad', '2025-06-05');
 
 -- Restaurants
 INSERT INTO Restaurants VALUES (1, 'Pizza Palace', 'Karachi', '0213456789', '11:00:00', '23:00:00');

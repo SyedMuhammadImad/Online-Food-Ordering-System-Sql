@@ -21,7 +21,6 @@ CREATE TABLE Users (
     user_id INT PRIMARY KEY,
     username VARCHAR(50) UNIQUE NOT NULL,
     email VARCHAR(100) UNIQUE NOT NULL,
-    password VARCHAR(100) NOT NULL,
     phone_number VARCHAR(15),
     address TEXT,
     created_at DATE DEFAULT CURRENT_DATE
@@ -91,9 +90,9 @@ CREATE TABLE Reviews (
 -- =========================================
 
 -- Users
-INSERT INTO Users VALUES (1, 'imad_01', 'imad@gmail.com', 'pass123', '03001234567', 'Karachi', '2025-06-01');
-INSERT INTO Users VALUES (2, 'sana_92', 'sana@hotmail.com', 'sana456', '03007654321', 'Lahore', '2025-06-03');
-INSERT INTO Users VALUES (3, 'ali_k', 'ali@yahoo.com', 'ali321', '03111222333', 'Islamabad', '2025-06-05');
+INSERT INTO Users VALUES (1, 'imad_01', 'imad@gmail.com', '03001234567', 'Karachi', '2025-06-01');
+INSERT INTO Users VALUES (2, 'sana_92', 'sana@hotmail.com', '03007654321', 'Lahore', '2025-06-03');
+INSERT INTO Users VALUES (3, 'ali_k', 'ali@yahoo.com', '03111222333', 'Islamabad', '2025-06-05');
 
 -- Restaurants
 INSERT INTO Restaurants VALUES (1, 'Pizza Palace', 'Karachi', '0213456789', '11:00:00', '23:00:00');

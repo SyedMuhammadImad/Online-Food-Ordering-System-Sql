@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-05",
+  "date": "2026-10-06",
   "title": "Online food ordering SQL coursework",
-  "runtime_verified_for_publication": false,
+  "completion_gate_passed": true,
   "files": [
     {
       "path": ".gitignore",
@@ -15,28 +15,38 @@
     },
     {
       "path": "README.md",
-      "sha256": "478d83aabe7fd4854fa4ac148b527704cbb9394567e8759042cf76b7a6ceb6a8",
-      "bytes": 2840
+      "sha256": "6a1f0c355a95cf02131475e7a8b7745870794f82a62b56063b7dc7a61155310d",
+      "bytes": 557
+    },
+    {
+      "path": "VERIFICATION.json",
+      "sha256": "c3f6abd1a3ac760d73abb6aeb893f5c535d7de15412bbc4212f51a9c17e2c976",
+      "bytes": 421
+    },
+    {
+      "path": "verify.py",
+      "sha256": "73ce669097002138783b93566ebb2c1b99c3bbac3ae9cfb5ea99e056f22cafac",
+      "bytes": 1610
     },
     {
       "path": "sql/01_schema.sql",
-      "sha256": "f9b6a4a03fda63efe700dcb87234ab2728c9993f776ef6e24308f8c3def4c136",
-      "bytes": 2414
+      "sha256": "6ab9e16de59581a3d3287ce372cde170076a70faaae79aa17e2d1ccd194f4dad",
+      "bytes": 3300
     },
     {
       "path": "sql/02_sample_data.sql",
-      "sha256": "3638e4b195ea345d4e832fe95e79388a0e12c79a10504350b8e345be08341074",
-      "bytes": 1884
+      "sha256": "cda5f2b7f8975910dd5307e7c32ce309d29197506d5653b59a25944dea590007",
+      "bytes": 1889
     },
     {
       "path": "sql/03_queries.sql",
-      "sha256": "c9670f5a32e4859cfa99a5badd7f5a607ac908daa4cc710ad554e3ec90e47733",
-      "bytes": 2528
+      "sha256": "020dc605e199e28825c1366fcdfe1151f121e7a54cb8fcf9f80f9055a0e6a6b8",
+      "bytes": 2590
     },
     {
       "path": "additional_sources/Online_Food_Ordering_System_SQL/Online_Food_Ordering_System_SQL.sql",
-      "sha256": "397227318b261f69bfad5e6bfe25c16813d5f9de2e573c2fc7a98b913f9d6799",
-      "bytes": 6859
+      "sha256": "8e6ccf7a1f18f61d2a573b31860f0a721c68b51075195d2e75fd8c3d6ebb8030",
+      "bytes": 6977
     }
   ]
 }
