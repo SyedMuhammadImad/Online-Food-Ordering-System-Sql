@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-06",
-  "title": "Online food ordering SQL coursework",
+  "date": "2026-10-08",
+  "title": "Online food ordering SQL project",
   "completion_gate_passed": true,
   "files": [
     {
@@ -15,18 +15,18 @@
     },
     {
       "path": "README.md",
-      "sha256": "6a1f0c355a95cf02131475e7a8b7745870794f82a62b56063b7dc7a61155310d",
-      "bytes": 557
+      "sha256": "7f1ed033721f89b93c39f35085fd9ef32535f96e03f48e2fe84d3f97faf67c6e",
+      "bytes": 551
     },
     {
       "path": "VERIFICATION.json",
-      "sha256": "c3f6abd1a3ac760d73abb6aeb893f5c535d7de15412bbc4212f51a9c17e2c976",
-      "bytes": 421
+      "sha256": "b483f968ec27138180253b592986ececc96080a13d5deccb56730d1db02b78ad",
+      "bytes": 425
     },
     {
       "path": "verify.py",
-      "sha256": "73ce669097002138783b93566ebb2c1b99c3bbac3ae9cfb5ea99e056f22cafac",
-      "bytes": 1610
+      "sha256": "ab9fdb373cbcb7810cd08df53728396335e280ea6ebf3034c616cfe767f87e93",
+      "bytes": 1607
     },
     {
       "path": "sql/01_schema.sql",

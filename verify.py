@@ -1,4 +1,4 @@
-"""Run coursework and constraints in an isolated in-memory SQLite database."""
+"""Run project and constraints in an isolated in-memory SQLite database."""
 from pathlib import Path
 import sqlite3
 
